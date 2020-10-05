@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-04T21:11:20Z" name="Default suite" finished-at="2020-10-04T21:11:54Z" duration-ms="33901">
+    <groups>
+    </groups>
+    <test started-at="2020-10-04T21:11:20Z" name="Default test" finished-at="2020-10-04T21:11:54Z" duration-ms="33901">
+      <class name="PrimeHolding.Nixio.UsersPageTests">
+        <test-method is-config="true" signature="initializeDriverAndGoToUsersPage()[pri:0, instance:PrimeHolding.Nixio.UsersPageTests@65c7a252]" started-at="2020-10-05T00:11:20Z" name="initializeDriverAndGoToUsersPage" finished-at="2020-10-05T00:11:52Z" duration-ms="32265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriverAndGoToUsersPage -->
+        <test-method signature="addNewUser()[pri:0, instance:PrimeHolding.Nixio.UsersPageTests@65c7a252]" started-at="2020-10-05T00:11:52Z" name="addNewUser" finished-at="2020-10-05T00:11:54Z" duration-ms="1608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewUser -->
+      </class> <!-- PrimeHolding.Nixio.UsersPageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
